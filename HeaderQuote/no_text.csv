@@ -1,0 +1,7 @@
+,tweet_id,airline_sentiment,airline_sentiment_confidence,airline,name,negativereason_gold,tweet_created,user_timezone
+1,1292390400,neutral,1,Delta,JetBlueNews,,2015-02-16 23:36:05 -0800,Sydney
+2,1741189120,negative,1,Delta,nesi_1992,,2015-02-16 23:43:02 -0800,Pacific Time (US & Canada)
+3,-1542963200,negative,1,United,CPoutloud,,2015-02-16 23:48:48 -0800,
+4,2059558914,negative,1,United,brenduch,,2015-02-16 23:52:20 -0800,Buenos Aires
+5,423759872,negative,1,Southwest,VahidESQ,,2015-02-17 00:00:36 -0800,Pacific Time (US & Canada)
+6,1010978817,negative,1,United,brenduch,,2015-02-17 00:01:07 -0800,Buenos Aires
